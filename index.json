@@ -3,6 +3,7 @@
         "title": "The Rain",
         "description": "The soft and relaxing noise of the rain.",
         "url": "https://github.com/reo6/ambientease-packs/raw/main/Rain",
-        "slug": "rain"
+        "slug": "rain",
+        "background": "background.jpg"
     }
 ]
