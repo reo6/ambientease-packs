@@ -19,44 +19,6 @@
         ]
     },
     {
-        "title": "The Rain 2",
-        "description": "The soft and relaxing noise of the rain.",
-        "author": "@reo6",
-        "url": "https://github.com/reo6/ambientease-packs/raw/main/Rain2",
-        "slug": "rain2",
-        "background": "background.jpg",
-        "channels": [
-            "1.ogg",
-            "2.ogg",
-            "3.ogg",
-            "4.ogg",
-            "5.ogg",
-            "6.ogg",
-            "7.ogg",
-            "8.ogg",
-            "9.ogg"
-        ]
-    },
-    {
-        "title": "The Rain 3",
-        "description": "The soft and relaxing noise of the rain.",
-        "author": "@reo6",
-        "url": "https://github.com/reo6/ambientease-packs/raw/main/Rain3",
-        "slug": "rain3",
-        "background": "background.jpeg",
-        "channels": [
-            "1.ogg",
-            "2.ogg",
-            "3.ogg",
-            "4.ogg",
-            "5.ogg",
-            "6.ogg",
-            "7.ogg",
-            "8.ogg",
-            "9.ogg"
-        ]
-    },
-    {
         "title": "Serene Office",
         "description": "Calm noise of an office environment.",
         "author": "@reo6",
