@@ -6,7 +6,6 @@
         "url": "https://github.com/reo6/ambientease-packs/raw/main/Rain",
         "slug": "rain",
         "background": "background.jpg",
-        "format": "ogg",
         "channels": [
             "1.ogg",
             "2.ogg",
@@ -26,7 +25,6 @@
         "url": "https://github.com/reo6/ambientease-packs/raw/main/Rain2",
         "slug": "rain2",
         "background": "background.jpg",
-        "format": "ogg",
         "channels": [
             "1.ogg",
             "2.ogg",
@@ -46,7 +44,6 @@
         "url": "https://github.com/reo6/ambientease-packs/raw/main/Rain3",
         "slug": "rain3",
         "background": "background.jpeg",
-        "format": "ogg",
         "channels": [
             "1.ogg",
             "2.ogg",
