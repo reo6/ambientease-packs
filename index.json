@@ -55,5 +55,19 @@
             "8.ogg",
             "9.ogg"
         ]
-    }
+    },
+    {
+        "title": "Serene Office",
+        "description": "Calm noise of an office environment.",
+        "author": "@reo6",
+        "url": "https://github.com/reo6/ambientease-packs/raw/main/Office",
+        "slug": "office",
+        "background": "background.jpg",
+        "channels": [
+            "1.ogg",
+            "2.ogg",
+            "3.ogg",
+            "4.ogg"
+        ]
+    },
 ]
